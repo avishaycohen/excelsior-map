@@ -1,0 +1,23 @@
+{
+  "name": "simple-markers",
+  "version": "1.0.0",
+  "description": "Example showing how to add basic circle markers to a map.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Richard Zimerman <richard@zcreativelabs.com> (https://github.com/zimrick)",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^5.3.1",
+    "next": "^5.1.0",
+    "re-base": "^4.0.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-simple-maps": "~0.12.0"
+  }
+}
